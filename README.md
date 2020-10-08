@@ -46,13 +46,5 @@
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.DarwinCamahalan.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-
-
 [youtube]: https://www.youtube.com/channel/UC0nMJJfjdliiw_OFGkUQ1Dg?view_as=subscriber
 [linkedin]: https://www.linkedin.com/in/darwincamahalan/
