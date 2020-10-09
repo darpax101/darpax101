@@ -1,6 +1,6 @@
 ### Hi there, I'm Darwin - aka [Darpax][https://darpax.netlify.app/] 👋
 
-## I'm a Developer, Web Developer and Web Designer!
+## I'm a Developer, Web Developer, Web Designer and Full Stack Developer!
 
 - 🔭 I’m currently working on a project!
 - 🌱 I’m currently learning everything 🤣
@@ -18,7 +18,6 @@
 
 [<img align="left" alt="Darpax.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://darpax.netlify.app/]
 [<img align="left" alt="Darpax | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://www.youtube.com/channel/uc0nmjjfjdliiw_ofgkuq1dg?view_as=subscriber]
-[<img align="left" alt="Darpax | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Darpax | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/darwin-camahalan-8395201b5/]
 
 
