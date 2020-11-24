@@ -16,11 +16,5 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Darpax.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://darpax.netlify.app/]
-[<img align="left" alt="Darpax | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://www.youtube.com/channel/uc0nmjjfjdliiw_ofgkuq1dg?view_as=subscriber]
-[<img align="left" alt="Darpax | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/darwin-camahalan-8395201b5/]
-
-
-
-[youtube]: https://www.youtube.com/channel/UC0nMJJfjdliiw_OFGkUQ1Dg?view_as=subscriber
-[linkedin]: https://www.linkedin.com/in/darwincamahalan/
+LinkedIn: https://www.linkedin.com/in/darwin-camahalan-8395201b5/
+Facebook: https://www.facebook.com/darpax101/
