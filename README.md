@@ -1,12 +1,12 @@
-### Hi there, I'm Darwin - aka [Darpax][https://darwin-camahalan.netlify.app/] 👋
+### Hi there, I'm Darwin - aka Darpax 👋
 
-## I'm a Developer, Web Developer, Web Designer and Full Stack Developer!
+## I'm a Developer, Web Developer, Web Designer and Fullstack Developer 😎😁
 
-- 🔭 I’m currently working on a project!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other Developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 💪 I’m currently working on a project!
+- 😎 I’m currently learning everything 🤣
+- 💻 I’m looking to collaborate with other Developers
+- 🤓 2020 Goals: Contribute more to Open Source projects
+- 🥁 🎸 Fun fact: I love to draw and play guitar / drums
 
 ### Spotify Playing 🎧
 
