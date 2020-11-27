@@ -1,4 +1,4 @@
-### Hi there, I'm Darwin - aka Darpax 👋
+### Hi there, I'm Darwin - Darpax 👋
 
 ## I'm a Developer, UI/UX Designer and Fullstack Developer 😎😁
 
