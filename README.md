@@ -2,11 +2,11 @@
 
 ## I'm a Developer, UI/UX Designer and Fullstack Developer
 
-- 💪 I’m willing to work on any projects
-- 😎 I’m currently learning everything
-- 💻 I’m looking to collaborate with other Developers
-- 🤓 2021 Goals: Contribute more to Open Source projects
-- 🎸 Fun fact: I love to draw and play guitar / drums
+- I’m willing to work on any projects
+- I’m currently learning everything
+- I’m looking to collaborate with other Developers
+- 2021 Goals: Contribute more to Open Source projects
+- Fun fact: I love to draw and play guitar / drums
 
 ### Spotify Playing 🎧
 
